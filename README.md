@@ -26,4 +26,4 @@ This project was developed using NetBeans, a very useful integrated development 
 
 ## Author
 
-This project was created by [Your Name]. You can contact me at [tuemail@example.com].
+This project was created by @mandorc.

@@ -21,6 +21,7 @@ This project was developed using NetBeans, a very useful integrated development 
 4. Run the main class.
 
 ## Screenshots
+![Screenshotsl](https://raw.githubusercontent.com/mandorc/Tic-Tac-Toe-Project/main/Screenshots/Screenshots.png)
 
 
 
